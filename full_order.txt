@@ -1,0 +1,1191 @@
+59 - Intro Black Screen
+180 - Yami's first visit
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+11 - Cafeteria
+179 - Path to Cafe
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+5 - Room 2 - Tony
+1 - Hospital Hall
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+11 - Cafeteria
+179 - Path to Cafe
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+10 - bathroom
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+5 - Room 2 - Tony
+181 - bathroom
+5 - Room 2 - Tony
+1 - Hospital Hall
+12 - Closet
+13 - Closet path 1
+183 - Key: Metal Door
+13 - Closet path 1
+14 - Closet path 2
+182 - 2nd Passcard
+14 - Closet path 2
+184 - Bummy Guy
+185 - Storytime
+186 - Reading Rakuen
+187 - Yami's second visit
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+409 - Well beneath village
+17 - Leeble village
+23 - Panky's Hut
+17 - Leeble village
+60 - Morizora's Cave Entrance
+142 - NEW_Morizora's Cave (main)
+172 - West - Golem
+144 - Center - sapling
+149 - North - sun boulders
+144 - Center - sapling
+146 - East - thirsty root
+144 - Center - sapling
+152 - South - numerical puzzle
+153 - SE - numerical helpers
+152 - South - numerical puzzle
+151 - SW - stairs
+175 - B1 - SW Sue (stairs)
+176 - B1 - South (spirit run)
+177 - B1 - Center (spirit run)
+174 - B1 - North (sunloving root)
+149 - North - sun boulders
+174 - B1 - North (sunloving root)
+177 - B1 - Center (spirit run)
+176 - B1 - South (spirit run)
+175 - B1 - SW Sue (stairs)
+151 - SW - stairs
+152 - South - numerical puzzle
+144 - Center - sapling
+149 - North - sun boulders
+144 - Center - sapling
+146 - East - thirsty root
+150 - NE - water and dam
+178 - NE - water and dam 2
+147 - East - quenched root
+144 - Center - sapling
+172 - West - Golem
+142 - NEW_Morizora's Cave (main)
+170 - East - (door to switch room)
+155 - Center - hopping puzzle
+158 - North - pig repellent
+157 - NW - stairs
+158 - North - pig repellent
+155 - Center - hopping puzzle
+156 - West - Truffulos
+160 - SW - holes in ground
+165 - B1 - SW (key)
+160 - SW - holes in ground
+165 - B1 - SW (key)
+160 - SW - holes in ground
+165 - B1 - SW (key)
+160 - SW - holes in ground
+165 - B1 - SW (key)
+168 - B1 - West (Shimejis)
+163 - B1 - NW (stairs)
+157 - NW - stairs
+156 - West - Truffulos
+157 - NW - stairs
+156 - West - Truffulos
+155 - Center - hopping puzzle
+156 - West - Truffulos
+157 - NW - stairs
+156 - West - Truffulos
+160 - SW - holes in ground
+161 - South - hungry root
+162 - SE - stairs
+170 - East - (door to switch room)
+162 - SE - stairs
+167 - B1 - SE (stairs)
+166 - B1 - South
+169 - B1 - Center (weird cats)
+171 - B1 - East ("pig")
+169 - B1 - Center (weird cats)
+166 - B1 - South
+167 - B1 - SE (stairs)
+162 - SE - stairs
+170 - East - (door to switch room)
+159 - NE - switch
+170 - East - (door to switch room)
+155 - Center - hopping puzzle
+156 - West - Truffulos
+155 - Center - hopping puzzle
+170 - East - (door to switch room)
+142 - NEW_Morizora's Cave (main)
+172 - West - Golem
+144 - Center - sapling
+152 - South - numerical puzzle
+151 - SW - stairs
+175 - B1 - SW Sue (stairs)
+176 - B1 - South (spirit run)
+177 - B1 - Center (spirit run)
+174 - B1 - North (sunloving root)
+149 - North - sun boulders
+174 - B1 - North (sunloving root)
+177 - B1 - Center (spirit run)
+176 - B1 - South (spirit run)
+175 - B1 - SW Sue (stairs)
+151 - SW - stairs
+152 - South - numerical puzzle
+153 - SE - numerical helpers
+152 - South - numerical puzzle
+144 - Center - sapling
+147 - East - quenched root
+178 - NE - water and dam 2
+147 - East - quenched root
+144 - Center - sapling
+149 - North - sun boulders
+144 - Center - sapling
+172 - West - Golem
+148 - NW - switch
+172 - West - Golem
+145 - Morizora's Cave (drained)
+84 - Top Side
+85 - Narrow Path
+233 - New Grove 1
+85 - Narrow Path
+84 - Top Side
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+26 - Cora's Hut
+17 - Leeble village
+23 - Panky's Hut
+17 - Leeble village
+25 - Blacksmith Hut
+17 - Leeble village
+36 - Path to Star Night
+17 - Leeble village
+24 - Danielle's Hut
+17 - Leeble village
+25 - Blacksmith Hut
+232 - Small closet
+25 - Blacksmith Hut
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+14 - Closet path 2
+184 - Bummy Guy
+272 - Path to Boy's room
+184 - Bummy Guy
+353 - Secret Room 1 (Amber Marble)
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+10 - bathroom
+190 - Path to Winston's Corner
+18 - Winston's Beach/Tony's Island
+38 - Tent
+91 - Gemma introduction
+92 - Room 1
+93 - bathroom
+92 - Room 1
+101 - Path to Closet
+102 - Workroom
+101 - Path to Closet
+94 - Closet
+101 - Path to Closet
+102 - Workroom
+101 - Path to Closet
+94 - Closet
+101 - Path to Closet
+92 - Room 1
+101 - Path to Closet
+94 - Closet
+101 - Path to Closet
+92 - Room 1
+101 - Path to Closet
+92 - Room 1
+93 - bathroom
+92 - Room 1
+101 - Path to Closet
+102 - Workroom
+101 - Path to Closet
+94 - Closet
+101 - Path to Closet
+92 - Room 1
+95 - Cutscene 1 (1st meeting)
+96 - Room 2 (tent)
+99 - Below the tent
+97 - Water Trap ON
+98 - Water Trap OFF
+107 - Path to festival
+106 - Cutscene 2 (Hikaribana)
+108 - Room 3 (path)
+416 - NEW Hospital Path (plant)
+111 - Hospital Plant Room
+110 - Cutscene 3 (overhearing)
+120 - Bedroom
+112 - Room 4 (Spirit Run)
+120 - Bedroom
+112 - Room 4 (Spirit Run)
+113 - Underbelly
+114 - Red Room
+116 - Red Room 2
+114 - Red Room
+113 - Underbelly
+115 - Green Room
+117 - Green Room 2
+115 - Green Room
+113 - Underbelly
+112 - Room 4 (Spirit Run)
+120 - Bedroom
+112 - Room 4 (Spirit Run)
+120 - Bedroom
+112 - Room 4 (Spirit Run)
+121 - Underbelly Drained
+119 - Left Room
+121 - Underbelly Drained
+118 - Exit
+112 - Room 4 (Spirit Run)
+122 - Bedroom 2
+123 - Spirit Run 2
+124 - Cutscene 5 (wedding)
+137 - The Promise
+127 - Room 6 (wait the seasons)
+128 - Spring
+127 - Room 6 (wait the seasons)
+131 - Winter
+127 - Room 6 (wait the seasons)
+129 - Summer
+127 - Room 6 (wait the seasons)
+130 - Fall
+127 - Room 6 (wait the seasons)
+131 - Winter
+127 - Room 6 (wait the seasons)
+132 - Cutscene 7 (detained)
+138 - Gemma sets sail
+139 - Winston breaks out
+140 - Winston in the storm
+133 - Room 7 (Boss)
+134 - Cutscene 8 (underwater)
+141 - Rescue
+135 - Morizora's Beach
+136 - Meeting Gemma
+274 - Runestone 1
+38 - Tent
+18 - Winston's Beach/Tony's Island
+17 - Leeble village
+19 - Sue's waiting spot
+17 - Leeble village
+24 - Danielle's Hut
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+14 - Closet path 2
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+20 - Korshal Island
+17 - Leeble village
+24 - Danielle's Hut
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+190 - Path to Winston's Corner
+10 - bathroom
+9 - Room 5 - Winston and Sue
+10 - bathroom
+190 - Path to Winston's Corner
+10 - bathroom
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+5 - Room 2 - Tony
+181 - bathroom
+5 - Room 2 - Tony
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+17 - Leeble village
+22 - Leeble Inn
+17 - Leeble village
+25 - Blacksmith Hut
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+38 - Tent
+18 - Winston's Beach/Tony's Island
+190 - Path to Winston's Corner
+10 - bathroom
+9 - Room 5 - Winston and Sue
+10 - bathroom
+9 - Room 5 - Winston and Sue
+10 - bathroom
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+188 - Kisaburo's Garden
+191 - Path to Kisaburo's side
+27 - Water Palace Entrance
+28 - Midnight Tea Shop
+27 - Water Palace Entrance
+30 - Onsen
+408 - Well (path to LPA 1)
+30 - Onsen
+209 - Christina's Cave
+200 - Christina's Room
+224 - Christy's Hidden Room
+225 - Christy's Hidden Room 2
+224 - Christy's Hidden Room
+200 - Christina's Room
+224 - Christy's Hidden Room
+225 - Christy's Hidden Room 2
+226 - Christy's Hidden Room 3
+225 - Christy's Hidden Room 2
+226 - Christy's Hidden Room 3
+225 - Christy's Hidden Room 2
+224 - Christy's Hidden Room
+200 - Christina's Room
+212 - 1 - Fishing Lesson
+194 - 2nd floor
+200 - Christina's Room
+194 - 2nd floor
+210 - Room with Attic Stairs
+194 - 2nd floor
+196 - Master bedroom
+197 - Bathroom
+196 - Master bedroom
+194 - 2nd floor
+202 - 2nd floor bathroom
+194 - 2nd floor
+211 - Laundry Room
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+193 - 1st floor bathroom
+31 - Tony and Christina's House
+193 - 1st floor bathroom
+31 - Tony and Christina's House
+194 - 2nd floor
+210 - Room with Attic Stairs
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+194 - 2nd floor
+214 - 2 - Benny is born
+222 - Music Room
+205 - Lower Floor
+222 - Music Room
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+194 - 2nd floor
+216 - 3 - Detectives
+221 - Chess Room
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+194 - 2nd floor
+200 - Christina's Room
+194 - 2nd floor
+221 - Chess Room
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+194 - 2nd floor
+231 - 3 - Detective Clubhouse
+201 - Benny's Room
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+194 - 2nd floor
+210 - Room with Attic Stairs
+208 - 3rd floor
+210 - Room with Attic Stairs
+194 - 2nd floor
+196 - Master bedroom
+197 - Bathroom
+196 - Master bedroom
+194 - 2nd floor
+31 - Tony and Christina's House
+195 - Closet
+199 - Secret Passage
+206 - Secret Passage 2
+207 - Secret Room
+206 - Secret Passage 2
+199 - Secret Passage
+31 - Tony and Christina's House
+199 - Secret Passage
+227 - Yellow Power Source
+199 - Secret Passage
+31 - Tony and Christina's House
+194 - 2nd floor
+210 - Room with Attic Stairs
+208 - 3rd floor
+210 - Room with Attic Stairs
+194 - 2nd floor
+31 - Tony and Christina's House
+228 - Secret Closet
+194 - 2nd floor
+210 - Room with Attic Stairs
+215 - 4 - Picnic
+217 - 4 - Fall into the River
+218 - 5 - Funeral
+219 - 6 - Without Benny
+230 - 7 - Go home, Christy
+220 - 8 - Is he mad at me?
+208 - 3rd floor
+210 - Room with Attic Stairs
+194 - 2nd floor
+196 - Master bedroom
+194 - 2nd floor
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+198 - Control Room
+31 - Tony and Christina's House
+203 - Spare Room
+204 - Spare bathroom
+203 - Spare Room
+31 - Tony and Christina's House
+194 - 2nd floor
+196 - Master bedroom
+223 - Closet
+196 - Master bedroom
+194 - 2nd floor
+200 - Christina's Room
+229 - Tony sings to Christy
+275 - Runestone 2
+209 - Christina's Cave
+25 - Blacksmith Hut
+5 - Room 2 - Tony
+273 - Yami's third visit
+2 - Boy's Room
+1 - Hospital Hall
+2 - Boy's Room
+3 - bathroom
+2 - Boy's Room
+1 - Hospital Hall
+5 - Room 2 - Tony
+181 - bathroom
+5 - Room 2 - Tony
+1 - Hospital Hall
+179 - Path to Cafe
+1 - Hospital Hall
+12 - Closet
+401 - Secret Room 3 (Gold)
+12 - Closet
+13 - Closet path 1
+183 - Key: Metal Door
+13 - Closet path 1
+14 - Closet path 2
+182 - 2nd Passcard
+14 - Closet path 2
+400 - Secret Room 2 (Gold)
+14 - Closet path 2
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+11 - Cafeteria
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+188 - Kisaburo's Garden
+191 - Path to Kisaburo's side
+27 - Water Palace Entrance
+30 - Onsen
+27 - Water Palace Entrance
+28 - Midnight Tea Shop
+27 - Water Palace Entrance
+32 - Baby Dragons
+27 - Water Palace Entrance
+191 - Path to Kisaburo's side
+188 - Kisaburo's Garden
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+38 - Tent
+18 - Winston's Beach/Tony's Island
+17 - Leeble village
+19 - Sue's waiting spot
+29 - Korshal Island 2
+405 - Farmer's Hut
+29 - Korshal Island 2
+277 - Sky Bud Domain
+279 - Small cave
+277 - Sky Bud Domain
+343 - Sky Bud Foyer
+344 - Sky Bud Entrance
+345 - Servant's Quarters
+346 - Hallway
+347 - Sugarbaby's room
+346 - Hallway
+352 - Rupert's room
+346 - Hallway
+402 - Alfred and Lil Budz' room
+346 - Hallway
+345 - Servant's Quarters
+348 - VIP Room
+345 - Servant's Quarters
+348 - VIP Room
+345 - Servant's Quarters
+348 - VIP Room
+350 - Main Room
+348 - VIP Room
+345 - Servant's Quarters
+348 - VIP Room
+350 - Main Room
+348 - VIP Room
+345 - Servant's Quarters
+348 - VIP Room
+350 - Main Room
+348 - VIP Room
+345 - Servant's Quarters
+346 - Hallway
+347 - Sugarbaby's room
+346 - Hallway
+345 - Servant's Quarters
+349 - Kitchen
+351 - Monsieur's Apology
+343 - Sky Bud Foyer
+344 - Sky Bud Entrance
+350 - Main Room
+348 - VIP Room
+345 - Servant's Quarters
+348 - VIP Room
+350 - Main Room
+344 - Sky Bud Entrance
+345 - Servant's Quarters
+344 - Sky Bud Entrance
+343 - Sky Bud Foyer
+277 - Sky Bud Domain
+29 - Korshal Island 2
+405 - Farmer's Hut
+29 - Korshal Island 2
+19 - Sue's waiting spot
+17 - Leeble village
+25 - Blacksmith Hut
+17 - Leeble village
+409 - Well beneath village
+17 - Leeble village
+398 - Stormey's Cave
+27 - Water Palace Entrance
+398 - Stormey's Cave
+27 - Water Palace Entrance
+398 - Stormey's Cave
+284 - Path to Baby Dragons
+32 - Baby Dragons
+285 - Path to Baby Dragons 2
+398 - Stormey's Cave
+27 - Water Palace Entrance
+28 - Midnight Tea Shop
+395 - Deliver the Hikaribana
+371 - Kazuko in Hospital Hall
+391 - Room 4 - Kisaburo
+365 - 1st Date at Tea Shop
+366 - 1st Anniversary
+394 - Room 4 - Kisaburo
+368 - Kisaburo falls ill
+369 - Inside the house
+367 - Kisaburo out of sorts
+370 - Doctors give advice
+372 - Kisaburo in the Hospital
+393 - Onsen
+392 - Flowers for Kazuko
+396 - Kisaburo's Garden 2
+37 - Runestone 3
+397 - Midnight Tea Shop
+7 - drain room
+28 - Midnight Tea Shop
+27 - Water Palace Entrance
+192 - Baby Dragons (cleared)
+27 - Water Palace Entrance
+30 - Onsen
+408 - Well (path to LPA 1)
+72 - Well (path to LPA 2)
+411 - Well (path to LPA 3)
+281 - Leeble Protection Agency
+415 - Veggie Hut 1
+281 - Leeble Protection Agency
+412 - Veggie Hut 2
+281 - Leeble Protection Agency
+280 - Path to LPA 1
+27 - Water Palace Entrance
+30 - Onsen
+27 - Water Palace Entrance
+398 - Stormey's Cave
+285 - Path to Baby Dragons 2
+398 - Stormey's Cave
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+39 - South of Winston 1
+407 - Wooden Sign Day Party
+39 - South of Winston 1
+363 - bathroom
+6 - Room 3 - ???
+363 - bathroom
+6 - Room 3 - ???
+1 - Hospital Hall
+6 - Room 3 - ???
+363 - bathroom
+7 - drain room
+28 - Midnight Tea Shop
+27 - Water Palace Entrance
+30 - Onsen
+408 - Well (path to LPA 1)
+72 - Well (path to LPA 2)
+411 - Well (path to LPA 3)
+281 - Leeble Protection Agency
+415 - Veggie Hut 1
+281 - Leeble Protection Agency
+412 - Veggie Hut 2
+281 - Leeble Protection Agency
+280 - Path to LPA 1
+27 - Water Palace Entrance
+192 - Baby Dragons (cleared)
+27 - Water Palace Entrance
+398 - Stormey's Cave
+17 - Leeble village
+398 - Stormey's Cave
+285 - Path to Baby Dragons 2
+398 - Stormey's Cave
+17 - Leeble village
+60 - Morizora's Cave Entrance
+145 - Morizora's Cave (drained)
+84 - Top Side
+85 - Narrow Path
+84 - Top Side
+145 - Morizora's Cave (drained)
+170 - East - (door to switch room)
+155 - Center - hopping puzzle
+156 - West - Truffulos
+157 - NW - stairs
+163 - B1 - NW (stairs)
+168 - B1 - West (Shimejis)
+163 - B1 - NW (stairs)
+157 - NW - stairs
+156 - West - Truffulos
+155 - Center - hopping puzzle
+170 - East - (door to switch room)
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+413 - Korshal Island 3
+18 - Winston's Beach/Tony's Island
+39 - South of Winston 1
+407 - Wooden Sign Day Party
+39 - South of Winston 1
+40 - South of Winston 2
+21 - Cave
+40 - South of Winston 2
+42 - Minimori Melolunist
+40 - South of Winston 2
+39 - South of Winston 1
+18 - Winston's Beach/Tony's Island
+17 - Leeble village
+286 - Sue's waiting spot
+287 - Sue's Cave
+286 - Sue's waiting spot
+17 - Leeble village
+398 - Stormey's Cave
+27 - Water Palace Entrance
+398 - Stormey's Cave
+17 - Leeble village
+286 - Sue's waiting spot
+287 - Sue's Cave
+373 - Puchi's City Home
+385 - Accountants
+373 - Puchi's City Home
+383 - Conbini Indoors
+373 - Puchi's City Home
+384 - Alley
+373 - Puchi's City Home
+383 - Conbini Indoors
+373 - Puchi's City Home
+386 - Alley Party
+374 - Sue's School
+375 - Lonely Tree
+376 - Playground
+377 - Bullying at School
+379 - Eggshells
+390 - Playground
+380 - Puchi's Collar
+388 - At the tree?
+382 - Sue Moving Away
+378 - Puchi matteiru
+389 - Uma
+41 - Reunited
+290 - Runestone 4
+287 - Sue's Cave
+286 - Sue's waiting spot
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+287 - Sue's Cave
+286 - Sue's waiting spot
+17 - Leeble village
+23 - Panky's Hut
+17 - Leeble village
+26 - Cora's Hut
+17 - Leeble village
+60 - Morizora's Cave Entrance
+145 - Morizora's Cave (drained)
+170 - East - (door to switch room)
+155 - Center - hopping puzzle
+158 - North - pig repellent
+157 - NW - stairs
+158 - North - pig repellent
+155 - Center - hopping puzzle
+156 - West - Truffulos
+157 - NW - stairs
+163 - B1 - NW (stairs)
+168 - B1 - West (Shimejis)
+165 - B1 - SW (key)
+166 - B1 - South
+169 - B1 - Center (weird cats)
+164 - B1 - North (toy)
+169 - B1 - Center (weird cats)
+166 - B1 - South
+167 - B1 - SE (stairs)
+162 - SE - stairs
+170 - East - (door to switch room)
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+20 - Korshal Island
+403 - Korshal Artisan
+20 - Korshal Island
+17 - Leeble village
+286 - Sue's waiting spot
+29 - Korshal Island 2
+277 - Sky Bud Domain
+279 - Small cave
+277 - Sky Bud Domain
+29 - Korshal Island 2
+286 - Sue's waiting spot
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+39 - South of Winston 1
+18 - Winston's Beach/Tony's Island
+17 - Leeble village
+20 - Korshal Island
+403 - Korshal Artisan
+20 - Korshal Island
+403 - Korshal Artisan
+404 - Artisan's Hut
+403 - Korshal Artisan
+20 - Korshal Island
+17 - Leeble village
+60 - Morizora's Cave Entrance
+145 - Morizora's Cave (drained)
+170 - East - (door to switch room)
+162 - SE - stairs
+161 - South - hungry root
+162 - SE - stairs
+167 - B1 - SE (stairs)
+166 - B1 - South
+169 - B1 - Center (weird cats)
+164 - B1 - North (toy)
+169 - B1 - Center (weird cats)
+166 - B1 - South
+167 - B1 - SE (stairs)
+162 - SE - stairs
+170 - East - (door to switch room)
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+398 - Stormey's Cave
+27 - Water Palace Entrance
+280 - Path to LPA 1
+281 - Leeble Protection Agency
+412 - Veggie Hut 2
+281 - Leeble Protection Agency
+280 - Path to LPA 1
+27 - Water Palace Entrance
+398 - Stormey's Cave
+17 - Leeble village
+60 - Morizora's Cave Entrance
+145 - Morizora's Cave (drained)
+172 - West - Golem
+144 - Center - sapling
+152 - South - numerical puzzle
+151 - SW - stairs
+175 - B1 - SW Sue (stairs)
+173 - B1 - West (toy)
+175 - B1 - SW Sue (stairs)
+151 - SW - stairs
+152 - South - numerical puzzle
+144 - Center - sapling
+172 - West - Golem
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+179 - Path to Cafe
+11 - Cafeteria
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+23 - Panky's Hut
+17 - Leeble village
+26 - Cora's Hut
+17 - Leeble village
+357 - Star Night (new)
+296 - First meeting
+291 - Snowman Land
+292 - Animal Bakery
+293 - Upside-down Tea
+302 - Rainbow Path
+304 - Toyland Skybridge
+294 - Toyland
+295 - Star Picnic
+297 - Pillow Castle
+298 - Ocean
+303 - Leeble Inn
+299 - Hospital Hall
+300 - Where is Sue?
+301 - Jar of Marbles
+305 - Yami's last visit
+306 - Leeble Inn
+17 - Leeble village
+23 - Panky's Hut
+17 - Leeble village
+22 - Leeble Inn
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+307 - Tent (give Mom Hikaribana)
+18 - Winston's Beach/Tony's Island
+313 - Path to Winston's Corner
+312 - bathroom
+311 - Envoy Winston/Sue
+308 - Envoy Hospital
+309 - Envoy Boy's Room
+316 - 1 - Mom Duties
+327 - Hallway
+326 - Bedroom (work papers)
+327 - Hallway
+314 - Laundry Room
+329 - Bathroom
+314 - Laundry Room
+327 - Hallway
+328 - Kitchen
+327 - Hallway
+316 - 1 - Mom Duties
+317 - 2 - Hospital Path
+335 - 2a - Waiting (sleeping)
+337 - 2b - Pacing
+336 - 2c - Waiting (wake)
+339 - 2d - Doc tells Mom
+318 - 3 - Kabuto Boshi
+319 - 4 - Earthquake Run
+320 - Path
+321 - Boy
+322 - 5 - Dad Calls
+323 - 6 - The Hero
+324 - Boy
+325 - 7 - Long Hall
+288 - Runestone 5
+358 - Boy and Yami
+359 - Field of Flowers
+85 - Narrow Path
+84 - Top Side
+145 - Morizora's Cave (drained)
+60 - Morizora's Cave Entrance
+17 - Leeble village
+22 - Leeble Inn
+354 - New Path to Forest
+184 - Bummy Guy
+272 - Path to Boy's room
+2 - Boy's Room
+1 - Hospital Hall
+179 - Path to Cafe
+399 - Patient Lounge
+179 - Path to Cafe
+1 - Hospital Hall
+8 - Room 4 - Kisaburo
+1 - Hospital Hall
+9 - Room 5 - Winston and Sue
+1 - Hospital Hall
+2 - Boy's Room
+272 - Path to Boy's room
+184 - Bummy Guy
+354 - New Path to Forest
+22 - Leeble Inn
+17 - Leeble village
+60 - Morizora's Cave Entrance
+145 - Morizora's Cave (drained)
+84 - Top Side
+85 - Narrow Path
+361 - Wish from Morizora
+360 - The forever dock
+362 - The end
+52 - Leeble Village
+54 - Empty Tent
+34 - Gemma's Awake Party
+43 - RPS on the move!
+48 - Bear Cave
+35 - Sila Tree Babies
+51 - Korshal Walk Time
+44 - Midnight Tea Shop
+47 - Flowers for Kazuko
+45 - Onsen Side
+46 - Stormey and Kazuko have tea
+49 - NHB Concert
+67 - In Between Map
+50 - Sailing in a Boat
+73 - In Between Map 2
+53 - Hospital Hall
+74 - Patient Lounge
+71 - Goodbye to Cora
+15 - Accounting Office
+75 - Mom's Long Walk
+33 - Obaachan no Apaato
+76 - Origami Boats
+23 - Panky's Hut
+17 - Leeble village
+26 - Cora's Hut
+17 - Leeble village
+357 - Star Night (new)
+296 - First meeting
+291 - Snowman Land
+292 - Animal Bakery
+293 - Upside-down Tea
+302 - Rainbow Path
+304 - Toyland Skybridge
+294 - Toyland
+295 - Star Picnic
+297 - Pillow Castle
+298 - Ocean
+303 - Leeble Inn
+299 - Hospital Hall
+300 - Where is Sue?
+301 - Jar of Marbles
+305 - Yami's last visit
+306 - Leeble Inn
+17 - Leeble village
+18 - Winston's Beach/Tony's Island
+307 - Tent (give Mom Hikaribana)
+18 - Winston's Beach/Tony's Island
+313 - Path to Winston's Corner
+312 - bathroom
+311 - Envoy Winston/Sue
+308 - Envoy Hospital
+309 - Envoy Boy's Room
+316 - 1 - Mom Duties
+327 - Hallway
+326 - Bedroom (work papers)
+327 - Hallway
+314 - Laundry Room
+327 - Hallway
+328 - Kitchen
+327 - Hallway
+316 - 1 - Mom Duties
+317 - 2 - Hospital Path
+335 - 2a - Waiting (sleeping)
+337 - 2b - Pacing
+336 - 2c - Waiting (wake)
+339 - 2d - Doc tells Mom
+318 - 3 - Kabuto Boshi
+319 - 4 - Earthquake Run
+320 - Path
+321 - Boy
+322 - 5 - Dad Calls
+323 - 6 - The Hero
+324 - Boy
+325 - 7 - Long Hall
+288 - Runestone 5
+358 - Boy and Yami
+359 - Field of Flowers
+85 - Narrow Path
+359 - Field of Flowers
+85 - Narrow Path
+361 - Wish from Morizora
+360 - The forever dock
+362 - The end
+52 - Leeble Village
+54 - Empty Tent
+34 - Gemma's Awake Party
+43 - RPS on the move!
+48 - Bear Cave
+35 - Sila Tree Babies
+51 - Korshal Walk Time
+44 - Midnight Tea Shop
+47 - Flowers for Kazuko
+45 - Onsen Side
+46 - Stormey and Kazuko have tea
+49 - NHB Concert
+67 - In Between Map
+50 - Sailing in a Boat
+73 - In Between Map 2
+53 - Hospital Hall
+74 - Patient Lounge
+71 - Goodbye to Cora
+15 - Accounting Office
+75 - Mom's Long Walk
+33 - Obaachan no Apaato
+76 - Origami Boats
+361 - Wish from Morizora
+360 - The forever dock
+362 - The end
+52 - Leeble Village
+54 - Empty Tent
+34 - Gemma's Awake Party
+43 - RPS on the move!
+48 - Bear Cave
+35 - Sila Tree Babies
+51 - Korshal Walk Time
+44 - Midnight Tea Shop
+47 - Flowers for Kazuko
+45 - Onsen Side
+46 - Stormey and Kazuko have tea
+49 - NHB Concert
+67 - In Between Map
+50 - Sailing in a Boat
+73 - In Between Map 2
+53 - Hospital Hall
+74 - Patient Lounge
+71 - Goodbye to Cora
+15 - Accounting Office
+75 - Mom's Long Walk
+33 - Obaachan no Apaato
+76 - Origami Boats
+361 - Wish from Morizora
+360 - The forever dock
+362 - The end
+52 - Leeble Village
+54 - Empty Tent
+34 - Gemma's Awake Party
+43 - RPS on the move!
+48 - Bear Cave
+35 - Sila Tree Babies
+51 - Korshal Walk Time
+44 - Midnight Tea Shop
+47 - Flowers for Kazuko
+45 - Onsen Side
+46 - Stormey and Kazuko have tea
+49 - NHB Concert
+67 - In Between Map
+50 - Sailing in a Boat
+73 - In Between Map 2
+53 - Hospital Hall
+74 - Patient Lounge
+71 - Goodbye to Cora
+15 - Accounting Office
+75 - Mom's Long Walk
+33 - Obaachan no Apaato
+76 - Origami Boats
